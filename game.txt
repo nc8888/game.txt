@@ -16,7 +16,6 @@ accountportal-website-prod07.ol.epicgames.com
 accounts.ea.com
 accounts.epicgames.com
 accounts.launcher-website-prod07.ol.epicgames.com
-accounts.nintendo.com
 accounts.xboxlive.com
 achievementstats.com
 aheadofthegamemovie.com
@@ -187,6 +186,7 @@ counterstrike5.com
 counterstrike5.net
 counterstriketv.com
 crash.steampowered.com
+crazygames.com
 cs-conditionzero.com
 cs.steampowered.com
 csonline.com.tr
