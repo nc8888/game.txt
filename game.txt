@@ -7,7 +7,12 @@
 # Last updated: 2025-10-15
 #
 # -- Main Game domains -
-
+games.crazygames.com
+fafvertizing.crazygames.com	
+www.crazygames.com
+builds.crazygames.com
+imgs.crazygames.com
+cdn.privacy-mgmt.com
 2game.com
 3games1box.com
 5games1box.com
