@@ -7,6 +7,7 @@
 # Last updated: 2025-10-15
 #
 # -- Main Game domains -
+
 2game.com
 3games1box.com
 5games1box.com
