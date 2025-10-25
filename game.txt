@@ -4,9 +4,16 @@
 # Add this list to your Pi-hole Adlists section to block game site on all devices.
 #
 # Maintained by: 
-# Last updated: 2025-10-15
+# Last updated: 2025-10-25
 #
 # -- Main Game domains -
+cdn.bloxd.io
+static2.bloxd.io
+sdk.crazygames.com
+social18.bloxd.io
+files.crazygames.com
+bloxd-ee1aa.firebaseapp.com
+static7.bloxd.io
 bloxd.io
 games.crazygames.com
 fafvertizing.crazygames.com	
