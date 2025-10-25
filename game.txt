@@ -7,6 +7,7 @@
 # Last updated: 2025-10-15
 #
 # -- Main Game domains -
+bloxd.io
 games.crazygames.com
 fafvertizing.crazygames.com	
 www.crazygames.com
